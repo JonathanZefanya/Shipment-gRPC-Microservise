@@ -1,0 +1,9 @@
+﻿{
+    "reference_number":"REF-001",
+    "origin":"Almaty",
+    "destination":"Astana",
+    "driver_name":"John Doe",
+    "driver_unit":"TRUCK-1",
+    "amount":1000.0,
+    "driver_revenue":300.0
+}
