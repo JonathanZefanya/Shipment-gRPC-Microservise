@@ -170,3 +170,6 @@ shipment-service/
 ├── docker-compose.yml
 └── README.md
 ```
+---
+# Notes
+Bahan Pembelajaran untuk Golang (Main Language) + Docker (Container) + gRPC (Design API) + Postgres (Database) + Kafka (Message Broker)
